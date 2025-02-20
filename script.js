@@ -1,5 +1,3 @@
-console.log("hello");
-
 document.addEventListener("DOMContentLoaded", function(){
 const display = document.getElementById("calc-display");
 const buttons = document.getElementsByClassName('btn');
